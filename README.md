@@ -1,5 +1,5 @@
 # Hello!!
-My name is Aidan (he/him) and I am currently a student studying information technology at Vancouver Island University.
+My name is Aidan (he/him) and I am currently a first-year student studying information technology at Vancouver Island University.
 
 ## Current Projects
 ### Home File Server
@@ -7,6 +7,8 @@ I am currently working on a home file server that supports multiple user account
 
 *Hopefully more coming soon...*
 
+## Looking forward to learning...
+Looking forward to learning stuff about networking and server administration! Would love to collab on any sys-admin-related projects!
 
 
 
