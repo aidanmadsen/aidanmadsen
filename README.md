@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hello!!
+My name is Aidan (he/him) and I am currently a student studying information technology at Vancouver Island University.
+
+## Current Projects
+### Home File Server
+I am currently working on a home file server that supports multiple user accounts, and outside access using a VPN.
+
+*Hopefully more coming soon...*
+
+
+
+
+
+
+
 
 <!--
 **aidanmadsen/aidanmadsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
